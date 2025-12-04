@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src='./public/mechmania.png' width='70%'  /> 
+  <img src='../public/mechmania.png' width='70%'  /> 
 </div>
 
 <br>
